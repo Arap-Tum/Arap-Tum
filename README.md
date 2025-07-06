@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arap-Tum
 - 👀 I’m interested in ... Web development
-- 🌱 I’m currently learning ...Postgre SQL
-- 💞️ I’m looking to collaborate on ...front end and back development of a website
+- 🌱 I’m currently learning ...React Native, Web 3, SQL, 
+- 💞️ I’m looking to collaborate on ...fullstack development, web 3 smart contracts 
 - 📫 How to reach me ... WhatsApp +254769047082
 - 😄 Pronouns: ...   MALE (HE)
 - ⚡ Fun fact: ... I haven't thought of one yet, but I will update here when one comes to mind
