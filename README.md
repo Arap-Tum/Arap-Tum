@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Arap-Tum  
+# 👋 Hi, I’m Jamleck Kibet Tum
 
 ## 🚀 About Me  
 I am a **Full-Stack & Mobile App Developer** with hands-on experience in building applications that connect the web, mobile, and backend seamlessly. I love solving real-world problems through clean code, automation, and modern technologies.  
