@@ -1,21 +1,20 @@
 # 👋 Hi, I’m Jamleck Kibet Tum
 
 ## 🚀 About Me  
-I am a **Full-Stack & Mobile App Developer** with hands-on experience in building applications that connect the web, mobile, and backend seamlessly. I love solving real-world problems through clean code, automation, and modern technologies.  
+I am a **Full-Stack, Mobile App & Web Developer** with hands-on experience in building applications that connect the web, mobile, and backend seamlessly. I love solving real-world problems through clean code, automation, and modern technologies.  
 
 ## 👨‍💻 Tech Stack  
-- **Frontend:** React, React Native  
-- **Backend:** Node.js, Express  
-- **Databases:** SQL(prisma), MongoDB (with Mongoose ORM)  
+- **Frontend:** React, React Native, NextJs. 
+- **Backend:** Node.js, Express , Golang. 
+- **Databases:** PostgresSQL(prisma), MongoDB (with Mongoose ORM)  
 - **Automation & Workflows:** Docker, n8n  
 - **Others:** API design & integration, Image handling, Authentication & security  
 
 ## 👀 Interests  
-- Fullstack and mobile app development  
-- Web3 & Smart Contracts  
-- Automation with Docker & n8n  
+- Fullstack web and mobile app development  
+- Automation with  nodeJs
 - API-driven applications  
-- AI agents & workflow automation  
+- AI agents, RAG & workflow automation  
 
 ## 💞️ Collaboration Goals  
 I’m open to collaborating on:  
