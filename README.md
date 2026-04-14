@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jamleck Kibet Tum
+# 👋 Hi, I’m Kibet
 
 ## 🚀 About Me  
 I am a **Full-Stack, Mobile App & Web Developer** with hands-on experience in building applications that connect the web, mobile, and backend seamlessly. I love solving real-world problems through clean code, automation, and modern technologies.  
